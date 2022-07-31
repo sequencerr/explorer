@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable-car/car_button_background.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable-car/car_checkbox.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable-car/car_checkbox_background.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable-car/car_seekbar_track.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable-car/car_switch_track.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/btn_check_holo_light.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/btn_keyboard_key_ics.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/btn_notification_emphasized.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/emulator_circular_window_overlay.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/expand_button_pill_bg.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/fastscroll_track_holo_dark.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/fastscroll_track_holo_light.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_ab_back_material_light.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_ab_back_material_settings.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_accessibility_magnification_foreground.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_accessibility_one_handed.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_audio_notification.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_audio_notification_mute.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_audio_ring_notif_mute.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_bluetooth_transient_animation.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_bt_hearing_aid.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_bt_laptop.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_btn_round_more.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_call_answer.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_call_decline.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_camera.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_camera_blocked.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_check_circle_24px.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_chevron_start.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_chooser_pin.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_chooser_pin_dialog.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_clear.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_clear_holo_dark.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_clear_holo_light.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_clear_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_close.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_collapse_bundle.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_collapse_notification.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_commit_search_api_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_badge.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_badge_case.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_badge_color.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_badge_no_background.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_badge_off.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_icon.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_icon_badge_case.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_icon_badge_color.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_icon_badge_shadow.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_statusbar_icon.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_corp_user_badge.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_dialog_alert_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_dnd_block_notifications.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_apk.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_audio.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_certificate.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_codes.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_compressed.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_excel.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_folder.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_font.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_generic.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_image.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_pdf.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_powerpoint.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_presentation.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_spreadsheet.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_text.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_video.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_doc_word.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_eject_24dp.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_expand_bundle.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_expand_more_48dp.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_faster_emergency.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_feedback_alerted.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_feedback_downrank.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_feedback_indicator.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_feedback_uprank.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_file_copy.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_find_next_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_find_previous_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_fingerprint.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_folder_24dp.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_go_search_api_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_info.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_info_outline.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_input_extract_action_done.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_input_extract_action_search.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_input_extract_action_send.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_lock_bugreport.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_lock_idle_alarm.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_menu_cut_material.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/ic_settings_print.xml" value="0.3195" />
+        <entry key="..\:/Programs/Android/Sdk/platforms/android-32/data/res/drawable/input_extract_action_bg_material_dark.xml" value="0.3195" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/drawable/arrow_up.xml" value="0.33" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/drawable/file.xml" value="0.3195" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/drawable/folder.xml" value="0.3195" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3195" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/drawable/plus_sign.xml" value="0.3195" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/drawable/text_file.xml" value="0.3195" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/layout/prompt.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/layout/prompt_textfile.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/layout/recycler_adapter_row.xml" value="0.4161458333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/layout/recycler_row.xml" value="0.67" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Explorer/app/src/main/res/menu/main_menu.xml" value="0.4161458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/layout_root"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:paddingStart="24dp"
+	android:paddingTop="16dp"
+	android:paddingEnd="24dp"
+	android:paddingBottom="16dp">
+
+	<com.google.android.material.textfield.TextInputLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		app:suffixText=".txt">
+
+		<com.google.android.material.textfield.TextInputEditText
+			android:id="@+id/filenameDialogInput"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:hint="Give name to your new file"
+			android:maxHeight="96dp"
+			android:minHeight="48dp"
+			tools:ignore="HardcodedText">
+
+			<requestFocus />
+		</com.google.android.material.textfield.TextInputEditText>
+
+	</com.google.android.material.textfield.TextInputLayout>
+
+</LinearLayout>
